@@ -19,5 +19,5 @@ All the documents are Microsoft Word docs that can be opened with either [LibreO
 If you want to make changes, please make sure that you follow the format that has already been established.
 
 ## Copyright
-All of the information on the FBI and their Application process has been compiled from their [website](fbi.gov), and the information on the Glock 22 has been compiled from the Glock website. The images (except for the cover page image) are also from either the FBI or Glock. The cover page image is copyright CBS and is from their show, _FBI_. Other than that the images are from Wikimedia Commons and are free for reuse. 
+All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), and the information on the Glock 22 has been compiled from the [Glock website](https://www.glock.com/). The images (except for the cover page image) are also from either the FBI (and the US Government) or Glock International. The cover page image is copyright CBS and is from their show, _FBI_. Other than that the images are from Wikimedia Commons and are free for reuse. 
 My work on this project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
