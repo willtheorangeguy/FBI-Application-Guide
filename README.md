@@ -7,7 +7,8 @@ The guide is sorted into a folder for each step of the application process. Refe
 ├── Step1
 |   ├── 1-1 - How to Apply and Submit an Application.docx
 |   ├── 1-2 - Federal Resume Guide.docx
-|   └── 1-3 - FAQ.docx
+|   ├── 1-3 - Eligibility.docx
+|   └── 1-4 - FAQ.docx
 ├── 0 - Title and Contents.docx
 └── README.md
 ```
