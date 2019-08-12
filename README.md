@@ -9,6 +9,10 @@ The guide is sorted into a folder for each step of the application process. Refe
 |   ├── 1-2 - Federal Resume Guide.docx
 |   ├── 1-3 - Eligibility.docx
 |   └── 1-4 - FAQ.docx
+├── Step2
+|   ├── 2-1 - Testing Overview.docx
+├── Step9
+|   ├── 9-4 - Critical Incident Response Group.docx
 ├── 0 - Title and Contents.docx
 └── README.md
 ```
@@ -20,5 +24,8 @@ All the documents are Microsoft Word docs that can be opened with either [LibreO
 If you want to make changes, please make sure that you follow the format that has already been established.
 
 ## Copyright
-All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), and the information on the Glock 22 has been compiled from the [Glock website](https://www.glock.com/). The images (except for the cover page image) are also from either the FBI (and the US Government) or Glock International. The cover page image is copyright CBS and is from their show, _FBI_. Other than that the images are from Wikimedia Commons and are free for reuse. 
+All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), and the information on the Glock 22 has been compiled from the [Glock website](https://www.glock.com/). 
+
+All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/).
+
 My work on this project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
