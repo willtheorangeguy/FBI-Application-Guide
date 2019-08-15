@@ -5,12 +5,16 @@ This is a little guide that I put together to make it easier to see the requirem
 The guide is sorted into a folder for each step of the application process. Refer to the image above for more information, or to the folder structure below.
 ```
 ├── Step1
-|   ├── 1-1 - How to Apply and Submit an Application.docx
+|   ├── 1-1 - How to Apply & Submit an Application.docx
 |   ├── 1-2 - Federal Resume Guide.docx
 |   ├── 1-3 - Eligibility.docx
 |   └── 1-4 - FAQ.docx
 ├── Step2
 |   ├── 2-1 - Testing Overview.docx
+├── Step3
+|   ├── 3-1 - 10 Steps to Natrulization.docx
+├── Step4
+|   ├── 4-1 - Meet and Greet.docx
 ├── Step9
 |   ├── 9-4 - Critical Incident Response Group.docx
 ├── 0 - Title and Contents.docx
