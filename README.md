@@ -12,7 +12,7 @@ The guide is sorted into a folder for each step of the application process. Refe
 ├── Step2
 |   ├── 2-1 - Testing Overview.docx
 ├── Step3
-|   ├── 3-1 - 10 Steps to Natrulization.docx
+|   ├── 3-1 - 10 Steps to Naturalization.docx
 ├── Step4
 |   ├── 4-1 - Meet and Greet.docx
 ├── Step9
