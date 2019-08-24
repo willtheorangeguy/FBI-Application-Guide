@@ -29,7 +29,7 @@ All the documents are Microsoft Word docs that can be opened with either [LibreO
 If you want to make changes, please make sure that you follow the format that has already been established.
 
 ## Copyright
-All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), the information on US Immigration has been compoled from the USCIS [website](https://www.uscis.gov/) and the information on the Glock 22 has been compiled from the [Glock website](https://www.glock.com/). 
+All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), the information on US Immigration has been compoled from the USCIS [website](https://www.uscis.gov/) and the information on the Glock 22 has been compiled from the Glock [website](https://www.glock.com/). 
 
 All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/).
 
