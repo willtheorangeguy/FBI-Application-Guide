@@ -1,8 +1,10 @@
 # FBI Application Guide
-This is a little guide that I put together to make it easier to see the requirements to become and FBI Special Agent.
+
+This is a little guide that I put together to make it easier to see the requirements to become and FBI Special Agent. **This guide is still in progress, so use it at your own risk.**
 
 ![Application Process](https://www.fbijobs.gov/sites/default/files/FBI_Graphic_ApplicationProcess_SpecialAgent_Website_943x551-min.png)
 The guide is sorted into a folder for each step of the application process. Refer to the image above for more information, or to the folder structure below.
+
 ```
 ├── Step1
 |   ├── 1-1 - How to Apply & Submit an Application.docx
@@ -18,11 +20,16 @@ The guide is sorted into a folder for each step of the application process. Refe
 |   ├── 3-4 - N-400 Instructions.docx
 ├── Step4
 |   ├── 4-1 - Meet and Greet.docx
+├── Step5
+|   ├── 5-1 - Testing Overview.docx
 ├── Step9
 |   ├── 9-4 - Critical Incident Response Group.docx
+├── images
 ├── 0 - Title and Contents.docx
 └── README.md
 ```
+
+The `images` folder contains the images used on the title pages, and the folder's contents are not important to the application process, they are just here if you want to take a peek at the images. The number on each image relates to the step number that it is title image for.
 
 ## Format
 All the documents are Microsoft Word docs that can be opened with either [LibreOffice](https://www.libreoffice.org/) or [Microsoft Office](https://products.office.com/en-ca/products).
