@@ -25,6 +25,7 @@ The guide is sorted into a folder for each step of the application process. Refe
 ├── Step6
 |   ├── 6-1 - Testing Overview.docx
 |   ├── 6-2 - Training Tips.docx
+|   ├── 6-3 - Events and Scoring.docx
 ├── Step9
 |   ├── 9-4 - Critical Incident Response Group.docx
 ├── images
