@@ -28,6 +28,8 @@ The guide is sorted into a folder for each step of the application process. Refe
 |   ├── 6-3 - Events and Scoring.docx
 ├── Step7
 |   ├── 7-1 - Conditional Appointment Offer.docx
+├── Step8
+|   ├── 8-1 - Social Media Guidelines.docx
 ├── Step9
 |   ├── 9-4 - Critical Incident Response Group.docx
 ├── images
@@ -46,6 +48,6 @@ All of the information on the FBI and their Application process has been compile
 
 All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/).
 
-The FBI, the Department of Justice, USCIS, Glock or CBS do not endorse this project and are not affiliated with it in any way.
+The FBI, the Department of Justice, USCIS, Glock or CBS do **not** endorse this project and are **not** affiliated with it **in any way**.
 
 My work on this project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
