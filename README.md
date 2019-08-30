@@ -51,3 +51,4 @@ All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018 C
 The FBI, the Department of Justice, USCIS, Glock or CBS do **not** endorse this project and are **not** affiliated with it **in any way**.
 
 My work on this project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+![License](https://licensebuttons.net/l/by/4.0/88x31.png)
