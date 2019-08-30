@@ -26,6 +26,8 @@ The guide is sorted into a folder for each step of the application process. Refe
 |   ├── 6-1 - Testing Overview.docx
 |   ├── 6-2 - Training Tips.docx
 |   ├── 6-3 - Events and Scoring.docx
+├── Step7
+|   ├── 7-1 - Conditional Appointment Offer.docx
 ├── Step9
 |   ├── 9-4 - Critical Incident Response Group.docx
 ├── images
