@@ -32,6 +32,7 @@ The guide is sorted into a folder for each step of the application process. Refe
 |   ├── 8-1 - Social Media Guidelines.docx
 ├── Step9
 |   ├── 9-1 - General Overview.docx
+|   ├── 9-2 - Training Academy Overview.docx
 ├── images
 ├── 0 - Title and Contents.docx
 └── README.md
