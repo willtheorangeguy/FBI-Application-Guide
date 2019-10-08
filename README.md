@@ -3,7 +3,7 @@
 This is a little guide that I have put together to make it easier to see the requirements to become an FBI Special Agent. **This guide is still in progress, so use it at your own risk.**
 
 ![Application Process](https://www.fbijobs.gov/sites/default/files/FBI_Graphic_ApplicationProcess_SpecialAgent_Website_943x551-min.png)
-The guide is sorted into a folder for each step of the application process. Refer to the image above for more information, or to the folder structure below.
+The guide is sorted into one folder for each step of the application process. Refer to the image above for more information, or to the folder structure below.
 
 ```
 ├── Step1
