@@ -33,6 +33,7 @@ The guide is sorted into one folder for each step of the application process. Re
 ├── Step9
 |   ├── 9-1 - General Overview.docx
 |   ├── 9-2 - Training Academy Overview.docx
+|   ├── 9-3 - Glock Manual.docx
 ├── images
 ├── 0 - Title and Contents.docx
 └── README.md
@@ -47,7 +48,7 @@ If you want to make changes, please make sure that you follow the format that ha
 ## Copyright
 All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), the information on US Immigration has been compiled from the USCIS [website](https://www.uscis.gov/) and the information on the Glock 22 has been compiled from the Glock [website](https://www.glock.com/).
 
-All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018-2019 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/). The website icons used in the Social Media Guide are from the [Simple Icons](https://simpleicons.org) icon pack.
+All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018-2019 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/). The website icons used in the Social Media Guide are from the [Simple Icons](https://simpleicons.org) icon pack. The warning icons in the Glock Manual are from the [Open Iconic](https://useiconic.com/open) icon pack.
 
 The FBI, the Department of Justice, USCIS, Glock or CBS do **not** endorse this project and are **not** affiliated with it **in any way**.
 
