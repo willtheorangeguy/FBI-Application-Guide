@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Copy -->
-<h4 align="center">A little guide that makes it easier to see the requirements to become an FBI Special Agent. **This guide is still in progress, so use it at your own risk.**</h4>
+<h4 align="center">A little guide that makes it easier to see the requirements to become an FBI Special Agent. This guide is still in progress, so use it at your own risk.</h4>
 
 <!-- Badges -->
 <div align="center">
