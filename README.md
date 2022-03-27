@@ -1,11 +1,62 @@
-# FBI Application Guide
+<!-- Logo -->
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg" height="250px" width="400px" alt="FBI Application Guide">
+  <br>
+  FBI Application Guide
+  <br>
+</h1>
 
-This is a little guide that I have put together to make it easier to see the requirements to become an FBI Special Agent. **This guide is still in progress, so use it at your own risk.**
+<!-- Copy -->
+<h4 align="center">A little guide that makes it easier to see the requirements to become an FBI Special Agent. **This guide is still in progress, so use it at your own risk.**</h4>
 
+<!-- Badges -->
+<div align="center">
+    <!-- Version -->
+  <img alt="GitHub Version" src="https://img.shields.io/github/v/release/willtheorangeguy/FBI-Application-Guide">
+  <!-- Issues -->
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/willtheorangeguy/FBI-Application-Guide">
+  <!-- Pull Requests -->
+  <img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/willtheorangeguy/FBI-Application-Guide">
+  <!-- Discord -->
+  <img alt="Discord Server ID" src="https://img.shields.io/discord/957430856899776592">
+  <!-- Downloads -->
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/willtheorangeguy/FBI-Application-Guide/total">
+</div>
+
+<!-- Navigation -->
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#download">Download</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#contributing">Contributing</a> •
+  <a href="#changelog">Changelog</a> •
+  <a href="#credits">Credits & Contributors</a>
+</p>
+
+<!-- Screenshot(s) -->
 ![Application Process](https://raw.githubusercontent.com/willtheorangeguy/FBI-Application-Guide/master/images/intro.png)
+
+## Key Features
+
+* Contains all steps of the application program.
+* Includes testing guides for Phase I and II tests.
+* Neat tips and tricks.
+* Includes the US Federal Resume Guide.
+* Includes the Glock 19 and 22 User Manual.
+* Presented in an easy to read format.
+* Word documents can be edited to serve the users needs.
+* PDFs can be easily distributed.
+* Cross platform.
+
+## Download
+
+You can **[download](https://github.com/willtheorangeguy/FBI-Application-Guide/archive/refs/heads/master.zip) all the chapters** to read them locally on your device, or take them on the go.
+
+## How To Use
+
 The guide is sorted into one folder for each step of the application process. Refer to the image above for more information, or to the folder structure below.
 
-```
+```text
 ├── Step1
 |   ├── 1-1 - How to Apply & Submit an Application.docx
 |   ├── 1-2 - Federal Resume Guide.docx
@@ -39,19 +90,56 @@ The guide is sorted into one folder for each step of the application process. Re
 └── README.md
 ```
 
-The `images` folder contains the images used on the title pages, and the folder's contents are not important to the application process, they are just here if you want to take a peek at the images. The number on each image relates to the step number that it is the title image for.
+Each step in the application process has its own folder, which contains individual chapters. The documents can be read one at a time based on the topic you have questions on, or from beginning to end to learn everything about the application process.
 
-## Format
-All the documents are Microsoft Word docs that can be opened with either [LibreOffice](https://www.libreoffice.org/) or [Microsoft Office](https://products.office.com/en-ca/products).
-If you want to make changes, please make sure that you follow the format that has already been established.
+All the documents are Microsoft Word docs that can be opened with either [LibreOffice](https://www.libreoffice.org/download/download/) or [Microsoft Office](https://support.microsoft.com/en-us/office/download-and-install-or-reinstall-microsoft-365-or-office-2021-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658). All published PDFs can be opened natively with your web browser, or with [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
-## Copyright
-All of the information on the FBI and their Application process has been compiled from their [website](https://fbi.gov), the information on US Immigration has been compiled from the USCIS [website](https://www.uscis.gov/) and the information on the Glock 22 has been compiled from the Glock [website](https://www.glock.com/).
+## Contributing
 
-All the title page images are from CBS' TV Show _FBI_ and are copyright ©2018-2019 CBS Broadcasting, Inc. All Rights Reserved, photos taken by Michael Parmelee/CBS. All other images within the guide (so pages that are not cover/title pages) are copyright the [FBI](https://fbi.gov). The images in the Glock manual section of the guide are copyright [Glock](https://www.glock.com/). The website icons used in the Social Media Guide are from the [Simple Icons](https://simpleicons.org) icon pack. The warning icons in the Glock Manual are from the [Open Iconic](https://useiconic.com/open) icon pack.
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/willtheorangeguy/FBI-Application-Guide/compare).
 
-The FBI, the Department of Justice, USCIS, Glock or CBS do **not** endorse this project and are **not** affiliated with it **in any way**.
+Please read [`CONTRIBUTING`](CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
-My work on this project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+## Changelog
 
-![License](https://licensebuttons.net/l/by/4.0/88x31.png)
+See the [`CHANGELOG`](CHANGELOG.md) file for details.
+
+## Credits
+
+This software uses the following open source packages, projects, services or websites:
+
+<!-- Credits Table -->
+<table>
+  <tr>
+    <th align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" height="150" alt="GitHub"/></th>
+    <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="150" height="150" alt="Office"/></th>
+    <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg" width="150" height="150" alt="FBI"/></th>
+    <th align="center"><img src="https://yt3.ggpht.com/ytc/AKedOLQhzc1F2TZfVO42fdOsM0d6L9dJpiMBkVejLUtFVw=s900-c-k-c0x00ffffff-no-rj" width="150" height="150" alt="CBS"/></th>
+  </tr>
+  <tr>
+    <td align="center">GitHub</td>
+    <td align="center">Microsoft Office</td>
+    <td align="center">Federal Bureau of Investigation</td>
+    <td align="center">CBS</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/">Web</a> - <a href="https://github.com/pricing">Plans</a></td>
+    <td align="center"><a href="https://www.office.com/">Web</a> - <a href="https://www.microsoft.com/en-ca/microsoft-365/buy/compare-all-microsoft-365-products?=&activetab=tab:primaryr1&rtc=1">Plans</a></td>
+    <td align="center"><a href="https://www.fbi.gov/">Web</a></td>
+    <td align="center"><a href="https://www.cbs.com/shows/fbi/">Web</a></td>
+  </tr>
+</table>
+
+## Contributors
+
+* [@willtheorangeguy](https://github.com/willtheorangeguy) - Sponsor on [PayPal](https://paypal.me/wvdg44?country.x=CA&locale.x=en_US)
+
+## You may also like...
+
+* [PyWorkout](https://github.com/willtheorangeguy/PyWorkout) - A minimal CLI to keep you inspired during your workout! Easily used and customized, with support for multiple workout plans, different muscle groups and video workouts.
+* [Running Calculator](https://github.com/willtheorangeguy/Running-Calculator) - A running speed calculator for any unit of distance.
+* [Random Lotto Number Chooser](https://github.com/willtheorangeguy/Random-Lotto-Number-Chooser) - Randomly pick lucky lotto numbers.
+
+## License
+
+This project is licensed under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/) - see the [`LICENSE`](LICENSE.md) file for details. See the [Privacy Policy](https://github.com/willtheorangeguy/FBI-Application-Guide/blob/main/docs/legal/PRIVACY.md) and [Terms and Conditions](https://github.com/willtheorangeguy/FBI-Application-Guide/blob/main/docs/legal/TERMS.md) for legal information.
