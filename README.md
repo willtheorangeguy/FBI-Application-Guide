@@ -106,7 +106,7 @@ See the [`CHANGELOG`](CHANGELOG.md) file for details.
 
 ## Credits
 
-This software uses the following open source packages, projects, services or websites:
+This project uses the following open source packages, projects, services or websites:
 
 <!-- Credits Table -->
 <table>
