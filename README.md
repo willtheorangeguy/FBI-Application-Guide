@@ -59,34 +59,52 @@ The guide is sorted into one folder for each step of the application process. Re
 ```text
 ├── Step1
 |   ├── 1-1 - How to Apply & Submit an Application.docx
+|   ├── 1-1 - How to Apply & Submit an Application.pdf
 |   ├── 1-2 - Federal Resume Guide.docx
+|   ├── 1-2 - Federal Resume Guide.pdf
 |   ├── 1-3 - Eligibility.docx
-|   └── 1-4 - FAQ.docx
+|   ├── 1-3 - Eligibility.pdf
+|   ├── 1-3 - FAQ.docx
+|   └── 1-4 - FAQ.pdf
 ├── Step2
 |   ├── 2-1 - Testing Overview.docx
+|   └── 2-1 - Testing Overview.pdf
 ├── Step3
 |   ├── 3-1 - 10 Steps to Naturalization.docx
+|   ├── 3-1 - 10 Steps to Naturalization.pdf
 |   ├── 3-2 - US Citizenship Checklist.docx
+|   ├── 3-2 - US Citizenship Checklist.pdf
 |   ├── 3-3 - US Citizenship Eligibility Worksheet.docx
+|   ├── 3-3 - US Citizenship Eligibility Worksheet.pdf
 |   ├── 3-4 - N-400 Instructions.docx
+|   └── 3-4 - N-400 Instructions.pdf
 ├── Step4
 |   ├── 4-1 - Meet and Greet.docx
+|   └── 4-1 - Meet and Greet.pdf
 ├── Step5
 |   ├── 5-1 - Testing Overview.docx
+|   └── 5-1 - Testing Overview.pdf
 ├── Step6
 |   ├── 6-1 - Testing Overview.docx
+|   ├── 6-1 - Testing Overview.pdf
 |   ├── 6-2 - Training Tips.docx
+|   ├── 6-2 - Training Tips.pdf
 |   ├── 6-3 - Events and Scoring.docx
+|   └── 6-3 - Events and Scoring.pdf
 ├── Step7
 |   ├── 7-1 - Conditional Appointment Offer.docx
+|   └── 7-1 - Conditional Appointment Offer.pdf
 ├── Step8
 |   ├── 8-1 - Social Media Guidelines.docx
+|   └── 8-1 - Social Media Guidelines.pdf
 ├── Step9
 |   ├── 9-1 - General Overview.docx
+|   ├── 9-1 - General Overview.pdf
 |   ├── 9-2 - Training Academy Overview.docx
-|   ├── 9-3 - Glock Manual.docx
+|   ├── 9-2 - Training Academy Overview.pdf
 ├── images
 ├── 0 - Title and Contents.docx
+├── 0 - Title and Contents.pdf
 └── README.md
 ```
 
