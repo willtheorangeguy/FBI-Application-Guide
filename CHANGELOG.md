@@ -12,43 +12,43 @@
 
 - Updated README
 
-## [v0.7.0]()
+## v0.7.0
 
 ### Added
 
 - Step 7
 
-## [v0.6.0]()
+## v0.6.0
 
 ### Added
 
 - Step 6
 
-## [v0.5.0]()
+## v0.5.0
 
 ### Added
 
 - Step 5
 
-## [v0.4.0]()
+## v0.4.0
 
 ### Added
 
 - Step 4
 
-## [v0.3.0]()
+## v0.3.0
 
 ### Added
 
 - Step 3
 
-## [v0.2.0]()
+## v0.2.0
 
 ### Added
 
 - Step 2
 
-## [v0.1.0]()
+## v0.1.0
 
 ### Added
 
