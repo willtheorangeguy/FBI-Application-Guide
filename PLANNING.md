@@ -8,7 +8,7 @@
 
 - [ ] Glock Manual Complete
 - [ ] FBI Application Guide Complete
-- [ ] Word Documents and PDFs Available
+- [x] Word Documents and PDFs Available
 
 ## Version 1.1.0
 
