@@ -129,7 +129,7 @@ This project uses the following open source packages, projects, services or webs
 <!-- Credits Table -->
 <table>
   <tr>
-    <th align="center"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="150" height="150" alt="GitHub"/></th>
+    <th align="center"><img src="https://applets.imgix.net/https%3A%2F%2Fassets.ifttt.com%2Fimages%2Fchannels%2F2107379463%2Ficons%2Fmonochrome_large.png?w=240&h=240&s=8a19bbc158996d098e2fb18310ba7f33" width="150" height="150" alt="GitHub"/></th>
     <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="150" height="150" alt="Office"/></th>
     <th align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Seal_of_the_Federal_Bureau_of_Investigation.svg" width="150" height="150" alt="FBI"/></th>
     <th align="center"><img src="https://yt3.ggpht.com/ytc/AKedOLQhzc1F2TZfVO42fdOsM0d6L9dJpiMBkVejLUtFVw=s900-c-k-c0x00ffffff-no-rj" width="150" height="150" alt="CBS"/></th>
