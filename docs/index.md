@@ -3,7 +3,7 @@
 A compiled reference for the FBI Special Agent application process. It is a document
 collection, not software — nine folders of `.docx` and `.pdf` files, one folder per stage.
 
-```
+```text
 FBI-Application-Guide/
 ├── docs/
 │   ├── README.md          this page

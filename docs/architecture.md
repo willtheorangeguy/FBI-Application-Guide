@@ -2,7 +2,7 @@
 
 ## A document collection, not software
 
-```
+```text
 0 - Title and Contents.{docx,pdf}
 Step1/  1-1 … 1-4
 Step2/  2-1

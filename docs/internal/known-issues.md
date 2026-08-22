@@ -7,12 +7,11 @@ licensing decision rather than a documentation one.
 Ordered by severity. See [`docs/roadmap.md`](../roadmap.md) for the narrative version,
 which also covers deliberate non-goals.
 
-
 **4 open:** 1 medium, 3 low.
 
 ## 1. CC BY 4.0 is applied to documents that originated with federal agencies
 
-**Severity:** Medium  
+**Severity:** Medium
 **Where:** `CONTENT_LICENSE.md`
 
 **What:** The repository ships a Creative Commons Attribution 4.0 licence covering the content. The content is compiled from publicly available United States federal material — FBI, FBIJobs, and USCIS documents including the Federal Resume Guide and N-400 instructions.
@@ -23,7 +22,7 @@ which also covers deliberate non-goals.
 
 ## 2. The feature list claimed a firearms manual that is not in the repository
 
-**Severity:** Low  
+**Severity:** Low
 **Where:** `README.md` (previous version), Key Features
 
 **What:** It listed "Includes the Glock 19 and 22 User Manual". No such file is tracked or present on disk.
@@ -34,7 +33,7 @@ which also covers deliberate non-goals.
 
 ## 3. The README file tree did not match the actual filenames
 
-**Severity:** Low  
+**Severity:** Low
 **Where:** `README.md` (previous version), How To Use
 
 **What:** The tree listed `1-3 - FAQ.docx` beside `1-4 - FAQ.pdf` — the real file is `1-4 - FAQ.docx` — and `4-1 - Meet and Greet`, where the real file is `4-1 - Meet and Greet Session`.
@@ -45,7 +44,7 @@ which also covers deliberate non-goals.
 
 ## 4. The official FBI seal was used as the project logo
 
-**Severity:** Low  
+**Severity:** Low
 **Where:** `README.md` (previous version), logo and credits table
 
 **What:** The logo hot-linked the Seal of the Federal Bureau of Investigation from Wikimedia Commons.
@@ -53,7 +52,6 @@ which also covers deliberate non-goals.
 **Why it matters:** 18 U.S.C. 709 restricts use of the FBI seal in a manner conveying the impression of official approval, and this is an explicitly unofficial guide. Separately, hot-linking Wikimedia is a fragile external dependency.
 
 **Suggested fix:** Removed from the header in this sweep and replaced with a text heading plus an explicit Attribution section. Worth a look at the remaining credits-table usage.
-
 
 ---
 

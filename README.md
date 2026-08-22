@@ -40,7 +40,7 @@ Download the repository and open the folder for the stage you are at. See [`docs
 
 ## Documentation
 
-Full documentation lives in [`docs/`](docs/README.md):
+Full documentation lives in [`docs/`](docs/index.md):
 [Usage](docs/usage.md) · [Architecture](docs/architecture.md) · [FAQ](docs/faq.md) · [Roadmap](docs/roadmap.md)
 
 ## Support
