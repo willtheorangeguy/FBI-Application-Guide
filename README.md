@@ -43,7 +43,7 @@ Download the repository and open the folder for the stage you are at. See [`docs
 Full documentation lives in [`docs/`](docs/index.md):
 [Usage](docs/usage.md) · [Architecture](docs/architecture.md) · [FAQ](docs/faq.md) · [Roadmap](docs/roadmap.md)
 
-## Support
+Please read [`CONTRIBUTING`](https://github.com/willtheorangeguy/.github/blob/main/CONTRIBUTING.md) for details on our [`CODE OF CONDUCT`](https://github.com/willtheorangeguy/.github/blob/main/CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
 
 Open a [GitHub Discussion](https://github.com/willtheorangeguy/FBI-Application-Guide/discussions/new) or file an [issue](https://github.com/willtheorangeguy/FBI-Application-Guide/issues/new/choose).
 
